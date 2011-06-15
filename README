@@ -11,16 +11,16 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
+along with this program. If not, see http://www.gnu.org/licenses/.
 
 
 IP2Country is a php class to which country an IP number is registred in.
 You can also use it to find ASN for an IP number and validate an IP 
 number.
 
-The ip2country function use the database from <http://software77.net/
-geo-ip/>. The database has been compressed and converted to MySQL
-queries before being downloaded from <http://ikyon.se/>.
+The ip2country function use the database from http://software77.net/geo-ip/. 
+The database has been compressed and converted to MySQL
+queries before being downloaded from http://ikyon.se/.
 
-The ip_asn function queries the DNS server of team-cymru.org. See 
-<http://www.team-cymru.org/Services/ip-to-asn.html> for more information.
+The ip2asn function queries the DNS server of team-cymru.org. See 
+http://www.team-cymru.org/Services/ip-to-asn.html for more information.
